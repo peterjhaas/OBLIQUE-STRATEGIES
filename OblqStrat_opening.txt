@@ -1,0 +1,10 @@
+######################## OBLIQUE STRATEGIES ###############################
+
+Used to give you a little creative boost!
+* This version based upon the first handwritten deck *
+	
+>>> Original Content by Brian Eno & Peter Schmidt
+>>> Initial Code by Peter J. Haas (www.peerjhaas.com)
+>>> v.0.1
+
+###########################################################################
