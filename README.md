@@ -18,3 +18,6 @@ When you're ready to launch:
 [1]: For Mac Users — navigate to Applications/Utilities/Terminal.app
 
 [2]: For Windows Users — To Open Command line: Start menu -> Run and type cmd.
+
+
+[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/W7W1GAF6)
